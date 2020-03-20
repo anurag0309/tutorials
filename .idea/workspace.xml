@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed2031fe-2bf2-4c8d-9a02-61b70622cc54" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runtime.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/graph_tutorial/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/graph_tutorial/settings.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/graph_tutorial/wsgi.py" beforeDir="false" afterPath="$PROJECT_DIR$/graph_tutorial/wsgi.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/runtime.txt" beforeDir="false" afterPath="$PROJECT_DIR$/runtime.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,10 +49,10 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="448" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584700683063">
+    <state x="448" y="166" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1584703498996">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="448" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1584700683063" />
+    <state x="448" y="166" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728@0.0.1366.728" timestamp="1584703498996" />
     <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1584629769055">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
