@@ -27,7 +27,7 @@ SECRET_KEY = '=mzq0+14$cvi!%6j82-a5x9=!la!q(urc7+drcwc9tp)a578s6'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['frozen-cliffs-46918.herokuapp.com']
 
 
 # Application definition

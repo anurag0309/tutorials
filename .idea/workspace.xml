@@ -2,66 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ed2031fe-2bf2-4c8d-9a02-61b70622cc54" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Procfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/runtime.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Pipfile" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/_asyncio.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/_bz2.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/_ctypes.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/_ctypes_test.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/_decimal.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/_elementtree.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/_hashlib.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/_lzma.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/_msi.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/_multiprocessing.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/_overlapped.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/_queue.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/_socket.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/_sqlite3.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/_ssl.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/_testbuffer.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/_testcapi.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/_testconsole.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/_testimportmultiple.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/_testmultiphase.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/_tkinter.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/activate" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/activate.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/activate.fish" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/activate.ps1" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/activate.xsh" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/activate_this.py" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/deactivate.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/easy_install-3.8.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/easy_install.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/easy_install3.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/libcrypto-1_1.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/libffi-7.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/libssl-1_1.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/pip-3.8.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/pip.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/pip3.8.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/pip3.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/pydoc.bat" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/pyexpat.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/python.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/python3.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/python38.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/pythonw.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/select.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/sqlite3.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/tcl86t.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/tk86t.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/unicodedata.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/vcruntime140.dll" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/wheel-3.8.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/wheel.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/wheel3.exe" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Scripts/winsound.pyd" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/graph_tutorial/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/graph_tutorial/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
